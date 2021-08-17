@@ -1,0 +1,14 @@
+{
+  "name": "dll_tool",
+  "version": "1.0.0",
+  "description": "dll tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hiker7",
+  "license": "ISC",
+  "dependencies": {
+    "ffi-napi": "^4.0.3"
+  }
+}
